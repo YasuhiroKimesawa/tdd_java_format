@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tdd.money.MoneyTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-06-28T05:58:27" hostname="E048213.local" time="0.024">
+  <properties/>
+  <testcase name="testMultiplication()" classname="com.tdd.money.MoneyTest" time="0.022"/>
+  <testcase name="testEquality()" classname="com.tdd.money.MoneyTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
